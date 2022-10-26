@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+main{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.index{
+    text-align: center;
+    margin: 20% auto;
+}
+
+.index a{
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
